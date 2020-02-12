@@ -10,7 +10,7 @@ S32K144是NXP推出的车规级别的MCU，ARM架构的内核。芯片在设计�
 ** TDL
 - 1. MCU资料收集(DONE)
 - 2. 开发板资料收集(DONE)
-- 3. 开发工具选择
+- 3. 开发工具选择(DONE)
 - 4. 工程创建以及开发环境配置
 - 5. 软件调试方式
 - 6. 周期性定时器
@@ -42,4 +42,9 @@ S32K144是NXP推出的车规级别的MCU，ARM架构的内核。芯片在设计�
 - 快速入门说明
 - 相关资料: S32K144_002_EVB
 - 总结分析参考链接： https://blog.csdn.net/grey_csdn/article/details/104241437
+*** 开发工具选择
+- 编译器套件：选择NXP官方的S32DS for ARM。这是一个基于gcc的免费的开发套件，作为我们的学习选择还是不错的。
+- 调试器：看到了开发板上自带了一个OpenSDA，这算是其中的一个选择。另外，我也准备了一个Jlink。
+*** 开发工具S32DS for ARM初步了解
+- 总结分析的小结参考链接： https://blog.csdn.net/grey_csdn/article/details/104287624
 
