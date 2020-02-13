@@ -47,4 +47,6 @@ S32K144是NXP推出的车规级别的MCU，ARM架构的内核。芯片在设计�
 - 调试器：看到了开发板上自带了一个OpenSDA，这算是其中的一个选择。另外，我也准备了一个Jlink。
 *** 开发工具S32DS for ARM初步了解
 - 总结分析的小结参考链接： https://blog.csdn.net/grey_csdn/article/details/104287624
+*** S32DS快速上手文档分析
+- 总结分析的小结参考链接： https://blog.csdn.net/grey_csdn/article/details/104304187
 
