@@ -1,0 +1,16 @@
+core=S32K144_M4_1
+coreType=S32K144_M4
+eclipse.preferences.version=1
+flashSize=0
+flashStart=0
+fpu=None
+io=noio
+language=c
+library=ewl_c9x
+pinSet=
+processor=S32K144
+productVersion=v2018.R1 b180815 
+ramSize=0
+ramStart=1fff8000
+toolchainVersion=
+wizardVersion=1.0.0.201808141537

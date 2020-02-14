@@ -1,0 +1,12 @@
+"./src/main.o"
+"./Project_Settings/Startup_Code/system_S32K144.o"
+"./Project_Settings/Startup_Code/startup_S32K144.o"
+"./Project_Settings/Startup_Code/startup.o"
+-T
+"D:/Users/Administrator/workspaceS32DS.ARM.2018.R1/s32k144_test_project_1/Project_Settings/Linker_Files/S32K144_64_flash.ld"
+-Wl,-Map,"s32k144_test_project_1.map"
+-Xlinker
+--gc-sections
+-mcpu=cortex-m4
+-specs=ewl_c9x_noio.specs
+--sysroot="D:/NXP/S32DS_ARM_v2018.R1/S32DS/arm32_ewl2"

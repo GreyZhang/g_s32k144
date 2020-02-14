@@ -1,0 +1,16 @@
+-DCPU_S32K144HFT0VLLT
+-I"D:/NXP/S32DS_ARM_v2018.R1/S32DS/arm32_ewl2/EWL_C/include"
+-I"D:/NXP/S32DS_ARM_v2018.R1/S32DS/arm32_ewl2/EWL_C/include/arm"
+-I"D:/NXP/S32DS_ARM_v2018.R1/S32DS/arm32_ewl2/EWL_Runtime/include"
+-I"D:/NXP/S32DS_ARM_v2018.R1/S32DS/arm32_ewl2/EWL_Runtime/include/arm"
+-I"D:/Users/Administrator/workspaceS32DS.ARM.2018.R1/s32k144_test_project_1/include"
+-O0
+-g3
+-Wall
+-c
+-fmessage-length=0
+-ffunction-sections
+-fdata-sections
+-mcpu=cortex-m4
+-specs=ewl_c9x_noio.specs
+--sysroot="D:/NXP/S32DS_ARM_v2018.R1/S32DS/arm32_ewl2"
