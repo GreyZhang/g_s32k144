@@ -11,8 +11,8 @@ S32K144是NXP推出的车规级别的MCU，ARM架构的内核。芯片在设计�
 - 1. MCU资料收集(DONE)
 - 2. 开发板资料收集(DONE)
 - 3. 开发工具选择(DONE)
-- 4. 工程创建以及开发环境配置
-- 5. 软件调试方式
+- 4. 工程创建以及开发环境配置(DONE)
+- 5. 软件调试方式(DONE)
 - 6. 周期性定时器
 - 7. GPIO
 - 8. 时钟配置
@@ -54,3 +54,5 @@ S32K144是NXP推出的车规级别的MCU，ARM架构的内核。芯片在设计�
 *** 使用S32DS for ARM创建S32K144工程并编译
 - 相关代码参考: S32K144_003_new_project
 - 总结分析的小结参考链接: https://blog.csdn.net/grey_csdn/article/details/104320363
+*** 开发板供电、软件烧写以及调试
+- 总结分析的小结参考链接: https://blog.csdn.net/grey_csdn/article/details/104342133
