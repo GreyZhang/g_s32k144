@@ -71,5 +71,8 @@ S32K144是NXP推出的车规级别的MCU，ARM架构的内核。芯片在设计�
 - 总结分析的小结参考链接: https://blog.csdn.net/grey_csdn/article/details/104347849
 *** 基于FreeRTOS的串口打印例子测试与分析
 - 总结分析的小结参考链接: https://blog.csdn.net/grey_csdn/article/details/104383774
+*** 在S32DS中修改工程名称
+- 软件工程参考: S32K144_005_rename_project
+- 总结分析的小结参考链接: https://blog.csdn.net/grey_csdn/article/details/104384152
 
 
