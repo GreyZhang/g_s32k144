@@ -79,4 +79,7 @@ S32K144是NXP推出的车规级别的MCU，ARM架构的内核。芯片在设计�
 - 总结分析的小结参考链接: https://blog.csdn.net/grey_csdn/article/details/104420403
 *** S32DS中实时查看变量的变化
 - 总结分析的小结参考链接: https://blog.csdn.net/grey_csdn/article/details/104420541
+*** S32K144实现串口驱动
+- 参考代码: S32K1144_007
+- 总结分析的小结参考链接: https://blog.csdn.net/grey_csdn/article/details/104420809
 
