@@ -87,5 +87,6 @@ S32K144是NXP推出的车规级别的MCU，ARM架构的内核。芯片在设计�
 *** 使用DMA的UART
 - 总结分析的小结参考链接: https://blog.csdn.net/grey_csdn/article/details/104436193
 *** GPIO控制LED闪烁
+- 代码参考: S32K144_009_GPIO_LED
 - 总结分析的小结参考链接: https://blog.csdn.net/grey_csdn/article/details/104444332
 
