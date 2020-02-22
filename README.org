@@ -13,10 +13,10 @@ S32K144是NXP推出的车规级别的MCU，ARM架构的内核。芯片在设计�
 - 3. 开发工具选择(DONE)
 - 4. 工程创建以及开发环境配置(DONE)
 - 5. 软件调试方式(DONE)
-- 6. 周期性定时器
-- 7. GPIO
+- 6. 周期性定时器(DONE)
+- 7. GPIO(DONE)
 - 8. 时钟配置
-- 9. 串口
+- 9. 串口(DONE)
 - 10. CAN
 - 11. ADC
 - 12. SPI
@@ -95,5 +95,6 @@ S32K144是NXP推出的车规级别的MCU，ARM架构的内核。芯片在设计�
 *** FreeRTOS的队列
 - 参考代码: S32K144_011_FreeRTOS_Queue
 - 总结分析的小结参考链接: https://blog.csdn.net/grey_csdn/article/details/104450056
-
-
+*** printf via UART
+- 参考代码: S32K144_012_printf
+- 总结分析的小结参考链接: https://blog.csdn.net/grey_csdn/article/details/104450862
