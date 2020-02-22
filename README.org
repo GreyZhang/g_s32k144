@@ -89,4 +89,7 @@ S32K144是NXP推出的车规级别的MCU，ARM架构的内核。芯片在设计�
 *** GPIO控制LED闪烁
 - 代码参考: S32K144_009_GPIO_LED
 - 总结分析的小结参考链接: https://blog.csdn.net/grey_csdn/article/details/104444332
+*** 周期性定时器 LPIT
+- 参考代码: S32K144_010_PIT
+- 总结分析的小结参考链接: https://blog.csdn.net/grey_csdn/article/details/104449049
 
