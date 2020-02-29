@@ -118,3 +118,9 @@ S32K144是NXP推出的车规级别的MCU，ARM架构的内核。芯片在设计�
 *** FreeRTOS的精准周期性任务调度
 - 参考代码: S32K144_016_Periodic_Task
 - 总结分析的小结参考链接: https://blog.csdn.net/grey_csdn/article/details/104574942
+*** 串口接收功能
+- 参考代码: S32K144_016_UART_RX
+- 总结分析的小结参考链接: https://blog.csdn.net/grey_csdn/article/details/104578701
+*** 基于DMA的串口收发
+- 参考代码: S32K144_017_UART_DMA
+- 总结分析的小结参考链接: https://blog.csdn.net/grey_csdn/article/details/104579262
