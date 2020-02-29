@@ -113,6 +113,8 @@ S32K144是NXP推出的车规级别的MCU，ARM架构的内核。芯片在设计�
 -参考代码: S32K144_014_RTC
 - 总结分析的小结参考链接: https://blog.csdn.net/grey_csdn/article/details/104547147
 *** RTC时钟时间设定
--参考代码: S32K144_015_RTC
+- 参考代码: S32K144_015_RTC
 - 总结分析的小结参考链接: https://blog.csdn.net/grey_csdn/article/details/104565814
-
+*** FreeRTOS的精准周期性任务调度
+- 参考代码: S32K144_016_Periodic_Task
+- 总结分析的小结参考链接: https://blog.csdn.net/grey_csdn/article/details/104574942
