@@ -141,3 +141,6 @@ S32K144是NXP推出的车规级别的MCU，ARM架构的内核。芯片在设计�
 *** FreeRTOS 守护程序启动监控
 - 参考代码: S32K144_022_FreeRTOS_DaemonTask
 - 总结分析的小结参考链接: https://blog.csdn.net/grey_csdn/article/details/104597473
+*** FreeRTOS heap剩余空间获取
+- 参考代码: S32K144_023_FreeRTOS_FreeHeap
+- 总结分析的小结参考链接: https://blog.csdn.net/grey_csdn/article/details/104599396
