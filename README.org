@@ -18,13 +18,13 @@ S32K144是NXP推出的车规级别的MCU，ARM架构的内核。芯片在设计�
 - 8. 时钟配置
 - 9. 串口(DONE)
 - 10. CAN
-- 11. ADC
+- 11. ADC(DONE)
 - 12. SPI
 - 13. IIC
 - 14. RTOS
 - 15. BootLoader
-- 16. DMA
-- 17. 中断
+- 16. DMA(DONE)
+- 17. 中断(DONE)
 - 18. 加密
 - 19. QuadSPI
 - 20. 数学以及电机库文件的使用
@@ -144,3 +144,7 @@ S32K144是NXP推出的车规级别的MCU，ARM架构的内核。芯片在设计�
 *** FreeRTOS heap剩余空间获取
 - 参考代码: S32K144_023_FreeRTOS_FreeHeap
 - 总结分析的小结参考链接: https://blog.csdn.net/grey_csdn/article/details/104599396
+*** 看门狗
+- 参考代码: S32K144_024_WatchDog
+- 总结分析的小结参考链接: https://blog.csdn.net/grey_csdn/article/details/104643882
+
