@@ -17,9 +17,9 @@ S32K144是NXP推出的车规级别的MCU，ARM架构的内核。芯片在设计�
 - 7. GPIO(DONE)
 - 8. 时钟配置
 - 9. 串口(DONE)
-- 10. CAN
+- 10. CAN(DONE)
 - 11. ADC(DONE)
-- 12. SPI
+- 12. SPI(DONE)
 - 13. IIC
 - 14. RTOS
 - 15. BootLoader
