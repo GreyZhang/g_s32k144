@@ -161,4 +161,6 @@ S32K144是NXP推出的车规级别的MCU，ARM架构的内核。芯片在设计�
 *** S32K144 EVB CAN基本配置实现以及测试
 - 参考代码: S32K144_028_CAN_Transmit
 - 总结分析的小结参考链接: https://blog.csdn.net/grey_csdn/article/details/104868882
-
+*** CAN 接收功能初步
+- 参考代码: S32K144_029_CAN_Receive_Basic
+- 总结分析的小结参考链接: https://blog.csdn.net/grey_csdn/article/details/105181759
