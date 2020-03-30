@@ -15,7 +15,7 @@ S32K144是NXP推出的车规级别的MCU，ARM架构的内核。芯片在设计�
 - 5. 软件调试方式(DONE)
 - 6. 周期性定时器(DONE)
 - 7. GPIO(DONE)
-- 8. 时钟配置
+- 8. 时钟配置(DONE)
 - 9. 串口(DONE)
 - 10. CAN(DONE)
 - 11. ADC(DONE)
@@ -167,3 +167,6 @@ S32K144是NXP推出的车规级别的MCU，ARM架构的内核。芯片在设计�
 *** CAN获取默认配置
 - 参考代码: S32K144_030_CAN_Default_Config
 - 总结分析的小结参考链接: https://blog.csdn.net/grey_csdn/article/details/105186747
+*** CAN波特率修改
+- 参考代码: S32K144_031_CAN_Baud_Rate
+- 总结分析的小结参考链接: https://blog.csdn.net/grey_csdn/article/details/105212017
