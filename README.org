@@ -170,3 +170,6 @@ S32K144是NXP推出的车规级别的MCU，ARM架构的内核。芯片在设计�
 *** CAN波特率修改
 - 参考代码: S32K144_031_CAN_Baud_Rate
 - 总结分析的小结参考链接: https://blog.csdn.net/grey_csdn/article/details/105212017
+*** CAN FIFO初步
+- 参考代码: S32K144_032_CAN_FIFO_Basic
+- 总结分析的小结参考链接: https://blog.csdn.net/grey_csdn/article/details/105233841
