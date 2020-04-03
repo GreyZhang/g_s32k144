@@ -176,3 +176,6 @@ S32K144是NXP推出的车规级别的MCU，ARM架构的内核。芯片在设计�
 *** CAN FIFO接收全部的CAN ID
 - 参考代码: S32K144_033_CAN_FIFO_all_msg
 - 总结分析的小结参考链接: https://blog.csdn.net/grey_csdn/article/details/105280370
+*** CAN的回调函数
+- 参考代码: S32K144_034_CAN_CallBack_Function
+- 总结分析的小结参考链接: https://blog.csdn.net/grey_csdn/article/details/105303727
